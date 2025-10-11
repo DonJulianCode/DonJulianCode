@@ -19,42 +19,31 @@
 
 ## 🚀 Sobre Mí
 
-```python
-class JulianGomezBrizuela:
-    def __init__(self):
-        self.nombre = "Julián Gómez Brizuela"
-        self.titulo = "Ingeniero Comercial"
-        self.empresa = "DataStudio"
-        self.website = "www.datastudio.cl"
-        self.ubicacion = "Santiago, Chile 🇨🇱"
-        self.especializacion = [
-            "Análisis de Datos",
-            "Ciencia de Datos", 
-            "Machine Learning",
-            "Inteligencia Artificial"
-        ]
-        self.roles = [
-            "Data Scientist", 
-            "ML Engineer", 
-            "Full Stack Developer",
-            "Business Intelligence Specialist"
-        ]
-        self.skills = {
-            "business": ["Estrategia", "Análisis de Negocio", "Toma de Decisiones"],
-            "data": ["Python", "Análisis Estadístico", "Visualización de Datos"],
-            "ai_ml": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-            "dev": ["Full Stack", "Web Development", "APIs"]
-        }
-        
-    def saludo(self):
-        return "¡Transformando datos en decisiones estratégicas! 📊🚀"
-```
+Soy **Julián Gómez Brizuela**, Ingeniero Comercial con especialización en **Ciencia de Datos, Machine Learning e Inteligencia Artificial**. Mi pasión es transformar datos complejos en insights estratégicos que impulsan la toma de decisiones empresariales.
 
-Soy **Ingeniero Comercial** especializado en **Ciencia de Datos, Machine Learning e Inteligencia Artificial**. Combino mi visión estratégica de negocios con habilidades técnicas avanzadas para crear soluciones basadas en datos que generen impacto real.
+### 💼 Experiencia Profesional
 
-Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** hasta el desarrollo de aplicaciones de **IA** y sistemas **full stack**. Actualmente trabajo en **DataStudio**, donde lideramos proyectos innovadores que fusionan tecnología y estrategia empresarial.
+Actualmente lidero proyectos en **DataStudio** ([www.datastudio.cl](http://www.datastudio.cl)), donde combinamos visión de negocio con tecnología avanzada para crear soluciones basadas en datos que generan valor real. Mi experiencia abarca:
 
-💡 **Mi enfoque:** Traducir problemas de negocio en soluciones técnicas escalables, utilizando el poder de los datos y la inteligencia artificial para impulsar la toma de decisiones estratégicas.
+- 📊 **Análisis de Datos:** Extracción de insights accionables mediante técnicas estadísticas avanzadas
+- 🤖 **Machine Learning:** Desarrollo e implementación de modelos predictivos y de clasificación
+- 🧠 **Inteligencia Artificial:** Soluciones con NLP, Computer Vision y modelos generativos
+- 💻 **Desarrollo Full Stack:** Creación de aplicaciones y dashboards interactivos
+- 📈 **Business Intelligence:** Visualización de datos y KPIs para decisiones estratégicas
+
+### 🎯 Mi Enfoque
+
+Creo firmemente en el poder de los datos para transformar negocios. Mi formación como Ingeniero Comercial me permite entender profundamente los problemas empresariales, mientras que mi expertise técnico me da las herramientas para resolverlos de manera innovadora y escalable.
+
+### 🎓 Formación & Certificaciones
+
+- **Ingeniero Comercial** 
+- **Especialidad en Ciencia de Datos** - Talento Digital para Chile
+- **Especialidad en Análisis de Datos** - Talento Digital para Chile
+
+### 📍 Ubicación
+
+Santiago, Chile 🇨🇱
 
 ---
 
@@ -147,6 +136,43 @@ Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🎓 Certificaciones Profesionales
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.acreditta.com/credential/015ffc79-d9ee-42a4-9ef0-6f9430e7b92d" target="_blank">
+<img src="https://img.shields.io/badge/🎓_CIENCIA_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Ciencia de Datos"/>
+</a>
+<br/>
+<sub><b>Talento Digital para Chile</b></sub>
+<br/>
+<a href="https://www.acreditta.com/credential/015ffc79-d9ee-42a4-9ef0-6f9430e7b92d">
+<img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://www.acreditta.com/credential/e7b01664-c6f2-483b-beb7-cfe38c8ed580" target="_blank">
+<img src="https://img.shields.io/badge/🎓_ANÁLISIS_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Análisis de Datos"/>
+</a>
+<br/>
+<sub><b>Talento Digital para Chile</b></sub>
+<br/>
+<a href="https://www.acreditta.com/credential/e7b01664-c6f2-483b-beb7-cfe38c8ed580">
+<img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
+</a>
+</td>
+</tr>
+</table>
+
+<sub>✅ Credenciales verificables oficialmente en Acreditta</sub>
 
 </div>
 
