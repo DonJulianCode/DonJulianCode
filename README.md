@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy DonJulianCode
+# 👋 ¡Hola! Soy Julián Gómez Brizuela
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Ingeniero+Comercial;Especialista+en+Data+Science+%26+ML;Experto+en+Inteligencia+Artificial;Desarrollador+Full+Stack;Transformando+Datos+en+Decisiones" alt="Typing SVG" />
 
@@ -309,4 +309,5 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
+
 
