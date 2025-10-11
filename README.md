@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-indielab.cl-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.indielab.cl)
+[![Website](https://img.shields.io/badge/Website-datastudio.cl-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.datastudio.cl)
 [![Location](https://img.shields.io/badge/📍_Santiago-Chile-00D9FF?style=for-the-badge)](https://maps.google.com/?q=Santiago,Chile)
 [![GitHub followers](https://img.shields.io/github/followers/DonJulianCode?style=for-the-badge&color=00D9FF)](https://github.com/DonJulianCode)
 [![Profile Views](https://img.shields.io/badge/Ingeniero-Comercial-00D9FF?style=for-the-badge&logo=graduation-cap)](https://github.com/DonJulianCode)
@@ -20,11 +20,12 @@
 ## 🚀 Sobre Mí
 
 ```python
-class DonJulianCode:
+class JulianGomezBrizuela:
     def __init__(self):
-        self.nombre = "Julián"
+        self.nombre = "Julián Gómez Brizuela"
         self.titulo = "Ingeniero Comercial"
-        self.empresa = "Indielab"
+        self.empresa = "DataStudio"
+        self.website = "www.datastudio.cl"
         self.ubicacion = "Santiago, Chile 🇨🇱"
         self.especializacion = [
             "Análisis de Datos",
@@ -51,7 +52,7 @@ class DonJulianCode:
 
 Soy **Ingeniero Comercial** especializado en **Ciencia de Datos, Machine Learning e Inteligencia Artificial**. Combino mi visión estratégica de negocios con habilidades técnicas avanzadas para crear soluciones basadas en datos que generen impacto real.
 
-Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** hasta el desarrollo de aplicaciones de **IA** y sistemas **full stack**. Actualmente trabajo en **Indielab**, donde lideramos proyectos innovadores que fusionan tecnología y estrategia empresarial.
+Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** hasta el desarrollo de aplicaciones de **IA** y sistemas **full stack**. Actualmente trabajo en **DataStudio**, donde lideramos proyectos innovadores que fusionan tecnología y estrategia empresarial.
 
 💡 **Mi enfoque:** Traducir problemas de negocio en soluciones técnicas escalables, utilizando el poder de los datos y la inteligencia artificial para impulsar la toma de decisiones estratégicas.
 
@@ -155,7 +156,7 @@ Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** 
 
 ```mermaid
 mindmap
-  root((Julián<br/>Ingeniero Comercial))
+  root((Julián Gómez<br/>Ingeniero Comercial))
     Business Strategy
       Análisis de Mercado
       Toma de Decisiones
@@ -263,8 +264,8 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡No dudes en contactarme!
 
-[![Website](https://img.shields.io/badge/🌐_Website-indielab.cl-00D9FF?style=for-the-badge)](http://www.indielab.cl)
-[![Email](https://img.shields.io/badge/📧_Email-Contáctame-00D9FF?style=for-the-badge)](mailto:contacto@indielab.cl)
+[![Website](https://img.shields.io/badge/🌐_Website-datastudio.cl-00D9FF?style=for-the-badge)](http://www.datastudio.cl)
+[![Email](https://img.shields.io/badge/📧_Email-Contáctame-00D9FF?style=for-the-badge)](mailto:contacto@datastudio.cl)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-DonJulianCode-00D9FF?style=for-the-badge)](https://github.com/DonJulianCode)
 
 </div>
@@ -299,7 +300,7 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 - [ ] 📚 Publicar papers o artículos sobre Data Science
 - [ ] 🤖 Desarrollar soluciones de IA generativa
 - [ ] 🌟 Crear cursos sobre Machine Learning
-- [ ] 💼 Expandir Indielab con proyectos de IA empresarial
+- [ ] 💼 Expandir DataStudio con proyectos de IA empresarial
 - [ ] 🎓 Certificaciones avanzadas en Cloud AI (AWS/GCP/Azure)
 
 </div>
@@ -309,5 +310,3 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
-
-
