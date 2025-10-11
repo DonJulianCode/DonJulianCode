@@ -1,3 +1,4 @@
+
 <div align="center">
   
 # 👋 ¡Hola! Soy Julián Gómez Brizuela
@@ -9,6 +10,8 @@
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-datastudio.cl-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.datastudio.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliangomezbrizuela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliangomezbrizuela/)
+[![X](https://img.shields.io/badge/X-@julian__gomez-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/julian_gomez)
 [![Location](https://img.shields.io/badge/📍_Santiago-Chile-00D9FF?style=for-the-badge)](https://maps.google.com/?q=Santiago,Chile)
 [![GitHub followers](https://img.shields.io/github/followers/DonJulianCode?style=for-the-badge&color=00D9FF)](https://github.com/DonJulianCode)
 [![Profile Views](https://img.shields.io/badge/Ingeniero-Comercial-00D9FF?style=for-the-badge&logo=graduation-cap)](https://github.com/DonJulianCode)
