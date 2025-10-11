@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Julián Gómez Brizuela
+# 👋 ¡Hola! Soy DonJulianCode
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Ingeniero+Comercial;Especialista+en+Data+Science+%26+ML;Experto+en+Inteligencia+Artificial;Desarrollador+Full+Stack;Transformando+Datos+en+Decisiones" alt="Typing SVG" />
 
 </div>
 
@@ -11,6 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-indielab.cl-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.indielab.cl)
 [![Location](https://img.shields.io/badge/📍_Santiago-Chile-00D9FF?style=for-the-badge)](https://maps.google.com/?q=Santiago,Chile)
 [![GitHub followers](https://img.shields.io/github/followers/DonJulianCode?style=for-the-badge&color=00D9FF)](https://github.com/DonJulianCode)
+[![Profile Views](https://img.shields.io/badge/Ingeniero-Comercial-00D9FF?style=for-the-badge&logo=graduation-cap)](https://github.com/DonJulianCode)
 
 </div>
 
@@ -22,16 +23,37 @@
 class DonJulianCode:
     def __init__(self):
         self.nombre = "Julián"
+        self.titulo = "Ingeniero Comercial"
         self.empresa = "Indielab"
         self.ubicacion = "Santiago, Chile 🇨🇱"
-        self.roles = ["Full Stack Developer", "Data Science Enthusiast", "Tech Innovator"]
-        self.intereses = ["Inteligencia Artificial", "Desarrollo Web", "Análisis de Datos"]
+        self.especializacion = [
+            "Análisis de Datos",
+            "Ciencia de Datos", 
+            "Machine Learning",
+            "Inteligencia Artificial"
+        ]
+        self.roles = [
+            "Data Scientist", 
+            "ML Engineer", 
+            "Full Stack Developer",
+            "Business Intelligence Specialist"
+        ]
+        self.skills = {
+            "business": ["Estrategia", "Análisis de Negocio", "Toma de Decisiones"],
+            "data": ["Python", "Análisis Estadístico", "Visualización de Datos"],
+            "ai_ml": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+            "dev": ["Full Stack", "Web Development", "APIs"]
+        }
         
     def saludo(self):
-        return "¡Gracias por visitar mi perfil! Siempre en busca de nuevos desafíos 🚀"
+        return "¡Transformando datos en decisiones estratégicas! 📊🚀"
 ```
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializo en desarrollo web full stack y tengo un gran interés en Data Science e Inteligencia Artificial. Actualmente trabajo en **Indielab**, donde transformamos ideas en realidades digitales.
+Soy **Ingeniero Comercial** especializado en **Ciencia de Datos, Machine Learning e Inteligencia Artificial**. Combino mi visión estratégica de negocios con habilidades técnicas avanzadas para crear soluciones basadas en datos que generen impacto real.
+
+Mi experiencia abarca desde el **análisis de datos** y **modelado predictivo** hasta el desarrollo de aplicaciones de **IA** y sistemas **full stack**. Actualmente trabajo en **Indielab**, donde lideramos proyectos innovadores que fusionan tecnología y estrategia empresarial.
+
+💡 **Mi enfoque:** Traducir problemas de negocio en soluciones técnicas escalables, utilizando el poder de los datos y la inteligencia artificial para impulsar la toma de decisiones estratégicas.
 
 ---
 
@@ -41,22 +63,120 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 
 ### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 📚 Frameworks & Librerías
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🤖 Data Science & AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 📊 Análisis & Visualización
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## 🎓 Áreas de Especialización
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80px" alt="Data Analysis"/>
+<br><b>Análisis de Datos</b>
+<br>
+<sub>
+• Estadística Avanzada<br>
+• Limpieza de Datos<br>
+• EDA & Insights<br>
+• Visualización
+</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="80px" alt="Data Science"/>
+<br><b>Ciencia de Datos</b>
+<br>
+<sub>
+• Modelado Predictivo<br>
+• Feature Engineering<br>
+• A/B Testing<br>
+• Big Data Analytics
+</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80px" alt="Machine Learning"/>
+<br><b>Machine Learning</b>
+<br>
+<sub>
+• Supervised Learning<br>
+• Unsupervised Learning<br>
+• Ensemble Methods<br>
+• Model Optimization
+</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" width="80px" alt="AI"/>
+<br><b>Inteligencia Artificial</b>
+<br>
+<sub>
+• Deep Learning<br>
+• NLP & LLMs<br>
+• Computer Vision<br>
+• Neural Networks
+</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Perfil Profesional
+
+```mermaid
+mindmap
+  root((Julián<br/>Ingeniero Comercial))
+    Business Strategy
+      Análisis de Mercado
+      Toma de Decisiones
+      KPIs & Métricas
+      ROI Optimization
+    Data Science
+      Python & R
+      Statistical Analysis
+      Data Mining
+      Predictive Analytics
+    Machine Learning
+      Supervised Models
+      Unsupervised Models
+      Deep Learning
+      Model Deployment
+    AI Development
+      NLP Applications
+      Computer Vision
+      LLM Integration
+      AI Strategy
+```
 
 ---
 
@@ -175,10 +295,12 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
   
 ### 🎯 Objetivos 2025
 
-- [ ] 🚀 Contribuir a más proyectos Open Source
-- [ ] 📚 Dominar nuevas tecnologías de IA
-- [ ] 🌟 Alcanzar 100 seguidores en GitHub
-- [ ] 💼 Expandir Indielab con nuevos proyectos innovadores
+- [ ] 🚀 Contribuir a proyectos Open Source de ML/AI
+- [ ] 📚 Publicar papers o artículos sobre Data Science
+- [ ] 🤖 Desarrollar soluciones de IA generativa
+- [ ] 🌟 Crear cursos sobre Machine Learning
+- [ ] 💼 Expandir Indielab con proyectos de IA empresarial
+- [ ] 🎓 Certificaciones avanzadas en Cloud AI (AWS/GCP/Azure)
 
 </div>
 
