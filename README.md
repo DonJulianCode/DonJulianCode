@@ -150,7 +150,7 @@ Santiago, Chile 🇨🇱
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/015ffc79-d9ee-42a4-9ef0-6f9430e7b92d" target="_blank">
 <img src="https://img.shields.io/badge/🎓_CIENCIA_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Ciencia de Datos"/>
 </a>
@@ -161,7 +161,7 @@ Santiago, Chile 🇨🇱
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/e7b01664-c6f2-483b-beb7-cfe38c8ed580" target="_blank">
 <img src="https://img.shields.io/badge/🎓_ANÁLISIS_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Análisis de Datos"/>
 </a>
@@ -169,6 +169,17 @@ Santiago, Chile 🇨🇱
 <sub><b>Talento Digital para Chile</b></sub>
 <br/>
 <a href="https://www.acreditta.com/credential/e7b01664-c6f2-483b-beb7-cfe38c8ed580">
+<img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.acreditta.com/credential/071abef5-bd4e-4e74-812b-e5d322833e3f" target="_blank">
+<img src="https://img.shields.io/badge/🎓_PYTHON_&_DATA_SCIENCE-DIPLOMADO-00D9FF?style=for-the-badge" alt="Python & Data Science"/>
+</a>
+<br/>
+<sub><b>Universidad Autónoma de Chile</b></sub>
+<br/>
+<a href="https://www.acreditta.com/credential/071abef5-bd4e-4e74-812b-e5d322833e3f">
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
 </td>
@@ -339,3 +350,4 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
+
