@@ -40,6 +40,7 @@ Creo firmemente en el poder de los datos para transformar negocios. Mi formació
 ### 🎓 Formación & Certificaciones
 
 - **Ingeniero Comercial** 
+- **Especialidad en Machine Learning** - Talento Digital para Chile
 - **Especialidad en Ciencia de Datos** - Talento Digital para Chile
 - **Especialidad en Análisis de Datos** - Talento Digital para Chile
 
@@ -149,7 +150,18 @@ Santiago, Chile 🇨🇱
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
+<a href="https://www.acreditta.com/credential/d659d639-2b2c-4d95-8d6b-c225b82b94a1" target="_blank">
+<img src="https://img.shields.io/badge/🎓_MACHINE_LEARNING-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Machine Learning"/>
+</a>
+<br/>
+<sub><b>Talento Digital para Chile</b></sub>
+<br/>
+<a href="https://www.acreditta.com/credential/d659d639-2b2c-4d95-8d6b-c225b82b94a1">
+<img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
+</a>
+</td>
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/015ffc79-d9ee-42a4-9ef0-6f9430e7b92d" target="_blank">
 <img src="https://img.shields.io/badge/🎓_CIENCIA_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Ciencia de Datos"/>
 </a>
@@ -160,7 +172,7 @@ Santiago, Chile 🇨🇱
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/e7b01664-c6f2-483b-beb7-cfe38c8ed580" target="_blank">
 <img src="https://img.shields.io/badge/🎓_ANÁLISIS_DE_DATOS-ESPECIALIDAD-00D9FF?style=for-the-badge" alt="Análisis de Datos"/>
 </a>
@@ -171,7 +183,9 @@ Santiago, Chile 🇨🇱
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/071abef5-bd4e-4e74-812b-e5d322833e3f" target="_blank">
 <img src="https://img.shields.io/badge/🎓_PYTHON_&_DATA_SCIENCE-DIPLOMADO-00D9FF?style=for-the-badge" alt="Python & Data Science"/>
 </a>
@@ -182,7 +196,7 @@ Santiago, Chile 🇨🇱
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://www.acreditta.com/credential/1e2ab88f-d380-4dcc-9ef2-2adc37a3cf4b" target="_blank">
 <img src="https://img.shields.io/badge/🎓_BUSINESS_ANALYTICS_&_IA-DIPLOMADO-00D9FF?style=for-the-badge" alt="Business Analytics & IA"/>
 </a>
@@ -192,6 +206,8 @@ Santiago, Chile 🇨🇱
 <a href="https://www.acreditta.com/credential/1e2ab88f-d380-4dcc-9ef2-2adc37a3cf4b">
 <img src="https://img.shields.io/badge/Verificar_Credencial-Acreditta-success?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTZMMTIgMTlMMjMgOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+" alt="Verificar"/>
 </a>
+</td>
+<td align="center" width="33%">
 </td>
 </tr>
 </table>
