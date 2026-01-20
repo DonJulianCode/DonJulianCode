@@ -370,7 +370,7 @@ mindmap
 
 <div align="center">
   
-### 🎯 Objetivos 2025
+### 🎯 Objetivos 2026
 
 - [ ] 🚀 Contribuir a proyectos Open Source de ML/AI
 - [ ] 📚 Publicar papers o artículos sobre Data Science
@@ -386,6 +386,7 @@ mindmap
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
+
 
 
 
