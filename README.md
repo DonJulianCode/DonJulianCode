@@ -272,49 +272,58 @@ mindmap
 <tr>
 <td width="50%">
 
-### 🎁 Amigo Secreto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Amigo_Secreto&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Amigo_Secreto)
+### ☀️ Inti-Gap
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=INTI_Gap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/INTI_Gap)
 
-Proyecto interactivo desarrollado durante el curso Oracle. Implementa lógica de asignación aleatoria para el juego del amigo secreto.
+**Pipeline de Materials Informatics** para predecir Band Gap de compuestos inorgánicos usando Machine Learning. Acelera el descubrimiento de materiales fotovoltaicos reduciendo pruebas de laboratorio.
 
-**Tech:** CSS, JavaScript, HTML
+**Tech:** Python, Scikit-learn, Matminer, PyMatGen, Jupyter
+
+**Destacado:** Random Forest con RMSE ~0.72 eV entrenado con 4,600 materiales reales
 
 </td>
 <td width="50%">
 
-### 🛒 Alura Store Challenge
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Challenge-Alura-Store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Challenge-Alura-Store)
+### 🧠 Sentiment AI
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=API-Sentiment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/API-Sentiment)
 
-Proyecto de Data Science utilizando Python. Análisis y visualización de datos con Jupyter Notebooks.
+**Plataforma de Business Intelligence** con análisis de sentimiento multidimensional. Arquitectura híbrida ML + LLMs para procesar feedback masivo de clientes en tiempo real.
 
-**Tech:** Python, Jupyter Notebook, Pandas
+**Tech:** Python, FastAPI, PHP, Chart.js, NLP
+
+**Destacado:** Dashboard BI con 11+ visualizaciones y reportes automáticos por IA
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎓 Skillnest Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=repositorio_skillnest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/repositorio_skillnest)
+### 🤖 Synthema IA
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Synthema-IA-Qwen-3-32b&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Synthema-IA-Qwen-3-32b)
 
-Repositorio de recursos y materiales educativos del proyecto Skillnest.
+**Sistema de razonamiento automatizado** de próxima generación. Análisis profundo de problemas complejos con salidas estructuradas en dos capas: resumen ejecutivo y reporte analítico detallado.
+
+**Tech:** PHP, Qwen 3-32B LLM, API Integration
+
+**Destacado:** Modo de pensamiento complejo para decisiones estratégicas de alto nivel
 
 </td>
 <td width="50%">
 
-### 🤖 Synthema IA Qwen
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Synthema-IA-Qwen-3-32b&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Synthema-IA-Qwen-3-32b)
+### 🔢 Formateo de Matrices
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Formateo-de-Matrices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Formateo-de-Matrices)
 
-Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
+**Librería educativa** para visualización elegante de matrices matemáticas en Python. Soporte completo para enteros, decimales, símbolos y números aleatorios con formato decorativo profesional.
 
-**Tech:** PHP, AI/ML
+**Tech:** Python, SymPy, NumPy, Jupyter
+
+**Destacado:** API simple e intuitiva perfecta para clases de álgebra lineal
 
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 📈 Actividad Reciente
@@ -376,4 +385,5 @@ Implementación de IA utilizando el modelo Qwen 3 32b para aplicaciones PHP.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
+
 
