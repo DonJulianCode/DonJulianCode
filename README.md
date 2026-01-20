@@ -273,7 +273,9 @@ mindmap
 <td width="50%">
 
 ### ☀️ Inti-Gap
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=INTI_Gap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/INTI_Gap)
+<a href="https://github.com/DonJulianCode/INTI_Gap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=INTI_Gap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Inti-Gap" />
+</a>
 
 Pipeline de Materials Informatics para predecir Band Gap de compuestos inorgánicos con ML. Acelera el descubrimiento de materiales fotovoltaicos reduciendo pruebas de laboratorio costosas.
 
@@ -285,7 +287,9 @@ Pipeline de Materials Informatics para predecir Band Gap de compuestos inorgáni
 <td width="50%">
 
 ### 🧠 Sentiment AI
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=API-Sentiment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/API-Sentiment)
+<a href="https://github.com/DonJulianCode/API-Sentiment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=API-Sentiment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Sentiment AI" />
+</a>
 
 Plataforma de Business Intelligence con análisis de sentimiento multidimensional. Arquitectura híbrida ML + LLMs para procesar feedback masivo de clientes en tiempo real con precisión superior al 95%.
 
@@ -299,7 +303,9 @@ Plataforma de Business Intelligence con análisis de sentimiento multidimensiona
 <td width="50%">
 
 ### 🤖 Synthema IA
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Synthema-IA-Qwen-3-32b&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Synthema-IA-Qwen-3-32b)
+<a href="https://github.com/DonJulianCode/Synthema-IA-Qwen-3-32b">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Synthema-IA-Qwen-3-32b&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Synthema IA" />
+</a>
 
 Sistema de razonamiento automatizado de próxima generación powered by Qwen 3-32B. Análisis profundo de problemas complejos con salidas estructuradas en dos capas: resumen ejecutivo y reporte analítico detallado.
 
@@ -311,7 +317,9 @@ Sistema de razonamiento automatizado de próxima generación powered by Qwen 3-3
 <td width="50%">
 
 ### 🔢 Formateo de Matrices
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Formateo-de-Matrices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/DonJulianCode/Formateo-de-Matrices)
+<a href="https://github.com/DonJulianCode/Formateo-de-Matrices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonJulianCode&repo=Formateo-de-Matrices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Formateo de Matrices" />
+</a>
 
 Librería Python elegante para visualización de matrices matemáticas con formato decorativo. Soporte completo para enteros, decimales, símbolos y aleatorios. Perfecta para educación y notebooks Jupyter.
 
@@ -386,6 +394,7 @@ Librería Python elegante para visualización de matrices matemáticas con forma
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </div>
+
 
 
 
